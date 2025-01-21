@@ -155,10 +155,10 @@ p.note { display: none; }
 <a href="https://youtube.com/shorts/mqJcYa-dY1Y?feature=share" target="_blank"><img src="20250120_005.png" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">王室カレンダーの別バージョン</span></h2>
+<h2><span class="yellow">王室カレンダーの別バージョンがありました</span></h2>
 <a href="20250120_018.JPG" target="_blank"><img src="20250120_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">企業系のカレンダーもありました</span></h2>
+<h2><span class="yellow">企業系のカレンダーもあります</span></h2>
 <a href="20250120_019.JPG" target="_blank"><img src="20250120_019.JPG" alt="サンプル画像" width="900" /></a>
 
 
