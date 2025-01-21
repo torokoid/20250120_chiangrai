@@ -132,7 +132,7 @@ p.note { display: none; }
 <a href="20250120_001.JPG" target="_blank"><img src="20250120_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">昨日よりさらに空の高いところで、掛け方はもうすぐ半月</span></h2>
-<a href="20250120_002.JPG" target="_blank"><img src="20250119_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250120_002.JPG" target="_blank"><img src="20250120_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ちょっと遅れてお日様も上がります 朝7:09</span></h2>
 <a href="20250120_003.JPG" target="_blank"><img src="20250120_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -151,7 +151,7 @@ p.note { display: none; }
 <a href="20250120_008.JPG" target="_blank"><img src="20250120_008.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">登れなかった坂を4日でクリアした４歳児、成長が早い！</span></h2>
+<h2><span class="yellow">登れなかった坂を4日でクリアした４歳児、成長が早い！<br>画像クリックで動画再生します ↓</span></h2>
 <a href="https://youtube.com/shorts/mqJcYa-dY1Y?feature=share" target="_blank"><img src="20250120_005.png" alt="サンプル画像" width="900" /></a>
 
 
