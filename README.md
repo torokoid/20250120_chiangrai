@@ -152,7 +152,7 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">登れなかった坂を4日でクリアした４歳児、成長が早い！</span></h2>
-<a href="https://youtube.com/shorts/mqJcYa-dY1Y?feature=share" target="_blank"><img src="20250120_005.png” alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/mqJcYa-dY1Y?feature=share" target="_blank"><img src="20250120_005.png" alt="サンプル画像" width="900" /></a>
 
 
 <h2><span class="yellow">王室カレンダーの別バージョン</span></h2>
@@ -210,7 +210,7 @@ p.note { display: none; }
 <a href="20250120_017.JPG" target="_blank"><img src="20250120_017.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">最後はまたまたメタバースで世間話して1日が終わり</span></h2>
-<a href="20250120_006.png” target="_blank"><img src="20250120_006.png” alt="サンプル画像" width="900" /></a>
+<a href="20250120_006.png" target="_blank"><img src="20250120_006.png" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
